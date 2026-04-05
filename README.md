@@ -1,2 +1,2 @@
 # FAI-LAB-reg-no-29-
-code and outputs for 15 experiments
+code and output for 15 experiments
