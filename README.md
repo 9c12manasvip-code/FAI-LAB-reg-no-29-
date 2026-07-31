@@ -1,2 +1,2 @@
-# FAI-LAB(reg no:29)
-code and output for 15 experiments
+Building a next word prediction model 
+
